@@ -1,6 +1,6 @@
 package assignment1;
 
-import org.omg.PortableServer.POAManagerPackage.AdapterInactiveHelper;
+// import org.omg.PortableServer.POAManagerPackage.AdapterInactiveHelper;
 
 public class multipleCatch {
     public static void main(String[] args) {

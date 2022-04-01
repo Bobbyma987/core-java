@@ -5,8 +5,8 @@ public class nestedtrycatch {
          try{
              try{
                 
-                 int bn =39/0;
-                 System.out.println("b");
+                 
+                 System.out.println(30/0);
              }
              catch(ArithmeticException e){
                  System.out.println(e);
