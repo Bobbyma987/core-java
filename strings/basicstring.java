@@ -15,8 +15,15 @@ public class basicstring {
         System.out.println(s.startsWith("my"));
         System.out.println(s.equalsIgnoreCase("my name"));
         System.out.println(s.replace("bobby", "kajal"));
+         
+         String [] str = new String[5];
+         str[0] ="bobby";
 
+            int arr [] = new int [2];
+            arr[0]=1;
 
+            System.out.println(str[0]);
+            System.out.println(arr[0]);
     }
     
 }

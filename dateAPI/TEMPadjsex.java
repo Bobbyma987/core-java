@@ -17,7 +17,7 @@ public class TEMPadjsex {
        date2.getDayOfWeek();
 
        TemporalAdjuster ta = t -> t.plus(Period.ofMonths(2));
-       System.out.println(date.with(TemporalAdjusters.next(DayOfWeek.TUESDAY)));
+       System.out.println(date.with(TemporalAdjusters.next(DayOfWeek.FRIDAY)));
 
     } 
     
