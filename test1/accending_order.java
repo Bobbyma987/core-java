@@ -1,33 +1,4 @@
 
-// import java.util.HashMap;
-// import java.util.List;
-// import java.util.Map;
-// import java.util.Set;
-// import java.util.ArrayList;
-// import java.util.Map.Entry;
-// public class accending_order {
-//     public static void main(String[] args) {
-//         Map<String, Integer> pb = new HashMap<>();
-//         pb.put("bobby",80);
-//         pb.put("kajal",70);
-//         pb.put("digant",86);
-//         pb.put("shubham",89);
-//         pb.put("did",83);
-//         Set<Map.Entry<String,Integer>> values = pb.entrySet();
-      
-//       for(Map.Entry<String,Integer> e : values){
-//           System.out.println(e.getKey()+" "+e.getValue());
-
-         
-//          List<Entry<String,Integer>> list = new ArrayList<>(pb.entrySet());
-//          list.sort(Entry.comparingByValue());
-//          list.forEach(System.out::println );
-//       }
-// }
-// }
-
-
-
 package test1;
 import java.util.Collection;
 
